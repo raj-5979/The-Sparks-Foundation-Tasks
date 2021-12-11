@@ -83,6 +83,18 @@ _Please click on the images on right side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/sL00unmrVKU)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-4_Stock_Price.ipynb)
 
+### # Task-7 : Stock market prediction using numerical and textual analysis(Level - Advanced)
+_Please click on the images on right side to view my solution._
+
+1. Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines 
+1. Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
+1. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model 
+1. You are free to select a different stock to analyze and news dataset as well while not changing the objective of the task.
+1. Download historical stock prizes from [finance.yahoo.com](finance.yahoo.com)
+1. Download textual(news) data from [https://bit.ly/36fFPI6](https://bit.ly/36fFPI6)
+
+
+
 
 
 
