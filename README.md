@@ -50,10 +50,10 @@ _Please click on the images on right side to view my solution (preferably youtub
 _Please click on the images on right side to view my solution (preferably youtube)._
 
 1.Perform 'Exploratory Data Analysis' on the provided dataset 'Global Terrorism'
-2.As a security/defense analyst, try to find out the hot zone of terrorism.
-3.What all security issues and insights you can derive by EDA?
-4.You can choose any of the tool of your Choice (python/R/tableau/powerBI/excel)
-5.Dataset Link: [https://bit.ly/2TK5Xn5](https://bit.ly/2TK5Xn5)
-6.Create storyboards. Screen record along with your audio explaining the charts and interpretations.
+1.As a security/defense analyst, try to find out the hot zone of terrorism.
+1.What all security issues and insights you can derive by EDA?
+1.You can choose any of the tool of your Choice (python/R/tableau/powerBI/excel)
+1.Dataset Link: [https://bit.ly/2TK5Xn5](https://bit.ly/2TK5Xn5)
+1.Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
 
