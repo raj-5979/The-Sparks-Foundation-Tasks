@@ -33,7 +33,7 @@ _Please click on the images on right side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/VlBGJgLoGIc)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-3_Decision_Tree.ipynb)
 
-### # Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
+### # Task-3 : Exploratory Data Analysis-Retail (Level - Beginner)
 _Please click on the images on right side to view my solution (preferably youtube)._
 
 1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
@@ -45,3 +45,15 @@ _Please click on the images on right side to view my solution (preferably youtub
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/PLASL3p3i3Y)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-6_Covid19.twb)
+
+### # Task-4 : Exploratory Data Analysis-Terrorism (Level - Intermediate)
+_Please click on the images on right side to view my solution (preferably youtube)._
+
+1.Perform 'Exploratory Data Analysis' on the provided dataset 'Global Terrorism'
+2.As a security/defense analyst, try to find out the hot zone of terrorism.
+3.What all security issues and insights you can derive by EDA?
+4.You can choose any of the tool of your Choice (python/R/tableau/powerBI/excel)
+5.Dataset Link: [https://bit.ly/2TK5Xn5](https://bit.ly/2TK5Xn5)
+6.Create storyboards. Screen record along with your audio explaining the charts and interpretations.
+
+
