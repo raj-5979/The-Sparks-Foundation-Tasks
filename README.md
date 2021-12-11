@@ -49,11 +49,12 @@ _Please click on the images on right side to view my solution (preferably youtub
 ### # Task-4 : Exploratory Data Analysis-Terrorism (Level - Intermediate)
 _Please click on the images on right side to view my solution (preferably youtube)._
 
-1.Perform 'Exploratory Data Analysis' on the provided dataset 'Global Terrorism'
-1.As a security/defense analyst, try to find out the hot zone of terrorism.
-1.What all security issues and insights you can derive by EDA?
-1.You can choose any of the tool of your Choice (python/R/tableau/powerBI/excel)
-1.Dataset Link: [https://bit.ly/2TK5Xn5](https://bit.ly/2TK5Xn5)
-1.Create storyboards. Screen record along with your audio explaining the charts and interpretations.
+1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘Global Terrorism’
+1. As a security/defense analyst, try to find out the hot zone of terrorism.
+1. What all security issues and insights you can derive by EDA?
+1. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
+1. Dataset link :[https://bit.ly/2TK5Xn5](https://bit.ly/2TK5Xn5)
+1. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
+
 
 
