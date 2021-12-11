@@ -56,5 +56,20 @@ _Please click on the images on right side to view my solution (preferably youtub
 1. Dataset link :[https://bit.ly/2TK5Xn5](https://bit.ly/2TK5Xn5)
 1. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/PLASL3p3i3Y)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-6_Covid19.twb)
+
+### # Task-5 : Exploratory Data Analysis-Sports (Level - Advanced)
+_Please click on the images on right side to view my solution (preferably youtube)._
+
+1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘Indian Premier League’
+1. As a sports analysts, find out the most successfull teams, players and factors contributing win or loss of a team.
+1. suggest teams or players a company should endorse for its products. 
+1. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
+1. Dataset link :[https://bit.ly/34SRn3b](https://bit.ly/34SRn3b)
+1. Create storyboards. Screen record along with your audio explaining the charts and interpretations. use annotations, animation and images.
+
+
+
 
 
